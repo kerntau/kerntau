@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0D1117&fontColor=ffffff&text=kerntau&fontSize=48&fontAlignY=38&desc=Information%20Security%20Technology&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="kerntau banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0D1117&fontColor=ffffff&text=kerntau&fontSize=48&fontAlignY=38&desc=Information%20Security%20Technology&descSize=14&descAlignY=58&animation=fadeIn" width="100%" height="150" alt="kerntau banner" />
+  <p><strong>信息安全技术 · Web 开发 · 工具构建</strong></p>
   <p>
-    <a href="https://coox.one"><strong>coox.one</strong></a> ·
-    <a href="https://blog.cot.wiki">博客</a> ·
-    <a href="mailto:kerntau@outlook.com">邮箱</a>
+    <a href="https://my.cot.wiki"><strong>my.cot.wiki</strong></a> ·
+    <a href="https://blog.cot.wiki">blog.cot.wiki</a> ·
+    <a href="https://cot.wiki">cot.wiki</a>
   </p>
-  <p><strong>信息安全技术 · Web 产品与实用工具</strong></p>
   <p>
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,nuxt,vite,tailwind,go,postgres,redis&theme=dark&perline=10" height="42" alt="TypeScript, React, Next.js, Vue, Nuxt, Vite, Tailwind CSS, Go, PostgreSQL, Redis" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,nuxt,vite,tailwind,go,postgres,redis&theme=dark&perline=10" height="38" alt="TypeScript, React, Next.js, Vue, Nuxt, Vite, Tailwind CSS, Go, PostgreSQL, Redis" />
   </p>
 </div>
 
