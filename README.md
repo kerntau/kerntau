@@ -24,42 +24,11 @@
 
 ## 认证证书
 
-<details>
-<summary>查看三项 Sangfor 认证</summary>
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="./assets/certificates/sangfor-ai-security.jpg" width="100%" alt="Sangfor AI Security certificate" /><br />
-        <sub><b>AI Security</b> · Valid through 2029-07-13</sub>
-      </td>
-      <td align="center" width="50%">
-        <img src="./assets/certificates/sangfor-security-service.jpg" width="100%" alt="Sangfor Security Service certificate" /><br />
-        <sub><b>Security Pre-Associate · Service</b> · Valid through 2029-05-18</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="./assets/certificates/sangfor-security-technology.jpg" width="50%" alt="Sangfor Security Technology certificate" /><br />
-        <sub><b>Security Pre-Associate · Technology</b> · Valid through 2029-05-18</sub>
-      </td>
-    </tr>
-  </table>
+  <img src="./assets/certificates/sangfor-ai-security.jpg" width="30%" alt="Sangfor AI Security certificate" />
+  <img src="./assets/certificates/sangfor-security-service.jpg" width="30%" alt="Sangfor Security Service certificate" />
+  <img src="./assets/certificates/sangfor-security-technology.jpg" width="30%" alt="Sangfor Security Technology certificate" />
 </div>
-</details>
-
----
-
-## 精选项目
-
-| 项目 | 简介 |
-| --- | --- |
-| [COT // 序栈](https://blog.cot.wiki) | Next.js 个人技术主页与知识库 |
-| [KBase](https://github.com/kerntau/kbase) | Next.js + Velite 技术知识库 |
-| [Store](https://github.com/kerntau/store) | Go + PostgreSQL + Redis 数字商品商城 |
-| [玄武 API](https://github.com/kerntau/apii) | 多模型 AI API 网关前端 |
-| [SBTI](https://github.com/kerntau/sbti) | Next.js 人格测试应用 |
 
 ---
 
@@ -67,27 +36,4 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kerntau&hide_border=true&theme=transparent&locale=zh_Hans" width="58%" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerntau&theme=github-compact&hide_border=true" width="95%" alt="GitHub Activity Graph" />
-</div>
-
-<details>
-<summary>查看贡献轨迹</summary>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kerntau/kerntau/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kerntau/kerntau/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kerntau/kerntau/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-</details>
-
----
-
-## 联系我
-
-`kerntau@outlook.com` · [coox.one](https://coox.one) · [blog.cot.wiki](https://blog.cot.wiki)
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=12,20,27,30&section=footer" width="100%" alt="footer" />
 </div>
