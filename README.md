@@ -9,7 +9,7 @@ I build focused web products, knowledge systems, and small tools with an eye for
 | Project | Description |
 | --- | --- |
 | [COT // 序栈](https://blog.cot.wiki) | Personal technical site and knowledge base built with Next.js 16. |
-| [Perimsx Space](https://coox.one) | Minimal personal homepage built with React, Vite, and Tailwind CSS. |
+| [Personal Space](https://coox.one) | Minimal personal homepage built with React, Vite, and Tailwind CSS. |
 | [KBase](https://github.com/kerntau/kbase) | Technical knowledge base built with Next.js and Velite. |
 | [Store](https://github.com/kerntau/store) | Lightweight digital-goods storefront with Go, PostgreSQL, Redis, and React. |
 | [玄武 API](https://github.com/kerntau/apii) | Frontend for a multi-model AI API gateway. |
