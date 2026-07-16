@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=12,20,27,30&text=kerntau&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Information%20Security%20Technology&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="kerntau banner" />
-
-  <h3>信息安全技术</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=12,20,27,30&text=kerntau&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Information%20Security%20Technology&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="kerntau banner" />
   <p>
     <a href="https://coox.one"><strong>coox.one</strong></a> ·
     <a href="https://blog.cot.wiki">Blog</a> ·
