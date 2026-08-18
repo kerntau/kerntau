@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0D1117&fontColor=ffffff&text=kerntau&fontSize=48&fontAlignY=38&desc=Information%20Security%20Technology&descSize=14&descAlignY=58&animation=fadeIn" width="820" alt="kerntau banner" />
   <p><strong>信息安全技术 · Web 开发 · 工具构建</strong></p>
   <p>
-    <a href="https://keru.in"><img src="https://img.shields.io/badge/my.cot.wiki-0969DA?style=flat-square&logo=googlechrome&logoColor=white" alt="keru.in" /></a>
+    <a href="https://keru.in"><img src="https://img.shields.io/badge/keru.in-0969DA?style=flat-square&logo=googlechrome&logoColor=white" alt="keru.in" /></a>
     <p>  
   <p>
     <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,nuxt,vite,tailwind,go,postgres,redis&theme=dark&perline=10" height="38" alt="TypeScript, React, Next.js, Vue, Nuxt, Vite, Tailwind CSS, Go, PostgreSQL, Redis" />
