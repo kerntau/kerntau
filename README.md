@@ -14,36 +14,39 @@
 
 ---
 
-## 01. THE PURPOSE // 项目本源
+## STACK · 技术栈
 
-散落的知识、实验和工具各自成仓。这里只做一件事——**把它们收拢成一个入口**。
+<p align="center">
+  <sub><b>FRONTEND</b></sub><br />
+  <img src="https://img.shields.io/badge/-TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-React-1E293B?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/-Vue-1E293B?style=flat-square&logo=vuedotjs&logoColor=41B883" alt="Vue" />
+  <img src="https://img.shields.io/badge/-Next.js-1E293B?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Vite-1E293B?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
+</p>
+
+<p align="center">
+  <sub><b>BACKEND</b></sub><br />
+  <img src="https://img.shields.io/badge/-Go-1E293B?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/-Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+</p>
+
+<p align="center">
+  <sub><b>DATA</b></sub><br />
+  <img src="https://img.shields.io/badge/-PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-Redis-1E293B?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
+  <img src="https://img.shields.io/badge/-SQLite-1E293B?style=flat-square&logo=sqlite&logoColor=0F80CC" alt="SQLite" />
+</p>
+
+<p align="center">
+  <sub><b>SECURITY</b></sub><br />
+  <img src="https://img.shields.io/badge/-Web%20Security-0E7490?style=flat-square" alt="Web Security" />
+  <img src="https://img.shields.io/badge/-Security%20Audit-0E7490?style=flat-square" alt="Security Audit" />
+</p>
 
 ---
 
-## 02. CORE ARCHITECTURE // 内容架构
-
-~~~text
-index    kerntau/kerntau · README.md · static
-  │
-repos    diary · moments · blog-v3 · Trace · openai-agents-starter-node · notes
-  │
-deploy   per-repository · independent boundaries
-~~~
-
----
-
-## 03. TECHNICAL MATRIX // 技术矩阵
-
-| 方向 | 常用技术 | 典型用途 |
-| :--- | :--- | :--- |
-| **前端** | `TypeScript` `React` `Vue` `Next.js` `Vite` | Web 应用与静态站点 |
-| **服务** | `Go` `Node.js` | API、脚本和工具 |
-| **数据** | `PostgreSQL` `Redis` `SQLite` | 应用持久化与缓存 |
-| **安全** | Web 安全 · 工程审计 | 学习、实验和防护 |
-
----
-
-## 04. REPOSITORY TOPOLOGY // 仓库拓扑
+## PROJECTS · 项目
 
 | 仓库 | 说明 | 栈 |
 | :--- | :--- | :--- |
@@ -56,16 +59,13 @@ deploy   per-repository · independent boundaries
 
 ---
 
-## 05. CLONE & QUICK START // 极速开始
+## QUICK START · 极速开始
 
 以 `diary` 为例：
 
 ```bash
-# 1 · 挑一个仓库
 git clone https://github.com/kerntau/diary.git
 cd diary
-
-# 2 · 安装并启动
 npm install
 npm run dev
 ```
@@ -74,21 +74,7 @@ npm run dev
 
 ---
 
-## 06. DEPLOYMENT & VERIFICATION // 使用与验证
-
-| # | 改动前检查 |
-| :-: | :--- |
-| 1 | 读 `README.md` —— 安装方式、脚本、目录约定 |
-| 2 | 读 `LICENSE` —— 授权范围 |
-| 3 | 复制 `.env.example` → `.env.local`，补齐缺失变量 |
-
-```bash
-npm run lint && npm run typecheck && npm run build
-```
-
----
-
-## 07. TELEMETRY // 实时指标
+## TELEMETRY · 实时指标
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kerntau&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0B1020&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9" width="48%" alt="GitHub stats" />
@@ -112,7 +98,7 @@ npm run lint && npm run typecheck && npm run build
 
 ---
 
-## 08. LICENSE // 许可证
+## LICENSE · 许可证
 
 各项目许可证以对应仓库为准。
 
