@@ -17,60 +17,31 @@
 ## STACK · 技术栈
 
 <p align="center">
-  <sub><b>FRONTEND</b></sub><br />
-  <img src="https://img.shields.io/badge/-TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-React-1E293B?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/-Vue-1E293B?style=flat-square&logo=vuedotjs&logoColor=41B883" alt="Vue" />
-  <img src="https://img.shields.io/badge/-Next.js-1E293B?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-Vite-1E293B?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
+  <sub><b>FRONTEND</b></sub><br /><br />
+  <img src="https://cdn.simpleicons.org/typescript/0891B2" width="60" height="60" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/0891B2" width="60" height="60" alt="React" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vuedotjs/0891B2" width="60" height="60" alt="Vue" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/0891B2" width="60" height="60" alt="Next.js" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vite/0891B2" width="60" height="60" alt="Vite" />
 </p>
 
 <p align="center">
-  <sub><b>BACKEND</b></sub><br />
-  <img src="https://img.shields.io/badge/-Go-1E293B?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
-  <img src="https://img.shields.io/badge/-Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <sub><b>BACKEND</b></sub><br /><br />
+  <img src="https://cdn.simpleicons.org/go/0891B2" width="60" height="60" alt="Go" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/0891B2" width="60" height="60" alt="Node.js" />
 </p>
 
 <p align="center">
-  <sub><b>DATA</b></sub><br />
-  <img src="https://img.shields.io/badge/-PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-Redis-1E293B?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
-  <img src="https://img.shields.io/badge/-SQLite-1E293B?style=flat-square&logo=sqlite&logoColor=0F80CC" alt="SQLite" />
+  <sub><b>DATA</b></sub><br /><br />
+  <img src="https://cdn.simpleicons.org/postgresql/0891B2" width="60" height="60" alt="PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/redis/0891B2" width="60" height="60" alt="Redis" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/sqlite/0891B2" width="60" height="60" alt="SQLite" />
 </p>
 
 <p align="center">
-  <sub><b>SECURITY</b></sub><br />
-  <img src="https://img.shields.io/badge/-Web%20Security-0E7490?style=flat-square" alt="Web Security" />
-  <img src="https://img.shields.io/badge/-Security%20Audit-0E7490?style=flat-square" alt="Security Audit" />
+  <sub><b>SECURITY</b></sub><br /><br />
+  <kbd>&nbsp;Web Security&nbsp;</kbd>&nbsp;&nbsp;&nbsp;<kbd>&nbsp;Engineering Audit&nbsp;</kbd>
 </p>
-
----
-
-## PROJECTS · 项目
-
-| 仓库 | 说明 | 栈 |
-| :--- | :--- | :--- |
-| **[`diary`](https://github.com/kerntau/diary)** | Markdown 日记 | `Markdown` |
-| **[`moments`](https://github.com/kerntau/moments)** | 自托管朋友圈 | `Self-hosted` |
-| **[`blog-v3`](https://github.com/kerntau/blog-v3)** | 博客引擎 | `React` `Rsbuild` |
-| **[`Trace`](https://github.com/kerntau/Trace)** | 博客与主页 monorepo | `Monorepo` |
-| **[`openai-agents-starter-node`](https://github.com/kerntau/openai-agents-starter-node)** | Agent 聊天模板 | `Node.js` `Agents` |
-| **[`notes`](https://github.com/kerntau/notes)** | 学习知识库 | `Docusaurus` |
-
----
-
-## QUICK START · 极速开始
-
-以 `diary` 为例：
-
-```bash
-git clone https://github.com/kerntau/diary.git
-cd diary
-npm install
-npm run dev
-```
-
-> 各仓库包管理器不同，先看 `package.json` 的 `packageManager` 字段。
 
 ---
 
