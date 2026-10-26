@@ -68,15 +68,3 @@
 <!-- 卡片由第三方公共实例生成，限流时会渲染为空白；需长期稳定可自建实例后替换域名。 -->
 
 ---
-
-## LICENSE · 许可证
-
-各项目许可证以对应仓库为准。
-
----
-
-<div align="center">
-  <sub>保持好奇，保持怀疑。</sub>
-  <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:131C3A,100:1E1B4B&height=110&section=footer" width="100%" alt="" />
-</div>
